@@ -9,7 +9,7 @@ function About() {
         <h1 className="text-4xl md:text-5xl font-bold text-[#A67B5B] mb-4">
           About FurniCo
         </h1>
-        <p className="text-lg max-w-2xl mx-auto text-gray-600">
+        <p className="text-lg max-w-2xl mx-auto text-gray-900">
           Where craftsmanship meets comfort — creating timeless furniture pieces
           designed to make your house feel like home.
         </p>
@@ -21,7 +21,7 @@ function About() {
           <h2 className="text-2xl font-semibold text-[#A67B5B] mb-4">
             Our Story
           </h2>
-          <p className="text-gray-700 leading-relaxed">
+          <p className="text-gray-900 leading-relaxed">
             Founded with a passion for design and sustainability, FurniCo began
             as a small local workshop and grew into a trusted name in furniture
             craftsmanship. We believe that every piece should tell a story —
@@ -55,7 +55,7 @@ function About() {
           <h2 className="text-2xl font-semibold text-[#A67B5B] mb-4">
             Our Vision
           </h2>
-          <p className="text-gray-700 leading-relaxed">
+          <p className="text-gray-900 leading-relaxed">
             Our goal is to make high-quality furniture accessible while
             maintaining sustainability at our core. We source responsibly,
             design thoughtfully, and craft with precision to ensure every piece
