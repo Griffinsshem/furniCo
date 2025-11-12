@@ -75,7 +75,7 @@ function About() {
         </p>
         <a
           href="/product"
-          className="bg-white text-black font-semibold py-3 px-6 rounded-full transition"
+          className="bg-white text-[#A67B5B] font-semibold py-3 px-6 rounded-full transition"
         >
           Browse Products
         </a>
