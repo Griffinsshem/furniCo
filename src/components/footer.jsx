@@ -17,7 +17,7 @@ function Footer() {
             <DeckIcon fontSize="large" />
             <p className="text-2xl font-semibold tracking-wide">FurniCo</p>
           </div>
-          <p className="text-sm text-gray-200 leading-relaxed">
+          <p className="text-lg text-gray-200 leading-relaxed">
             Creating timeless furniture pieces that bring comfort, elegance, and
             style into every home.
           </p>
@@ -26,7 +26,7 @@ function Footer() {
 
         <div>
           <h3 className="text-xl font-semibold mb-3">Quick Links</h3>
-          <ul className="space-y-2 text-gray-200">
+          <ul className="space-y-2 text-gray-200 text-lg">
             <li><Link href="/" className="hover:text-white transition">Home</Link></li>
             <li><Link href="/about" className="hover:text-white transition">About</Link></li>
             <li><Link href="/products" className="hover:text-white transition">Products</Link></li>
