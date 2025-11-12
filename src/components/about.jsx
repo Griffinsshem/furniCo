@@ -73,9 +73,12 @@ function About() {
           Discover our latest collections or get in touch to create custom
           furniture tailored to your space.
         </p>
-        <button className="bg-white text-[#A67B5B] px-6 py-3 rounded-lg font-semibold hover:bg-gray-100 transition">
-          Explore Products
-        </button>
+        <a
+          href="/product"
+          className="bg-white text-black font-semibold py-3 px-6 rounded-full transition"
+        >
+          Browse Products
+        </a>
       </section>
     </div>
   );
