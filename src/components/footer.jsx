@@ -47,7 +47,7 @@ function Footer() {
       </div>
 
 
-      <div className="border-t border-gray-400 text-center py-4 text-sm text-gray-100">
+      <div className="border-t border-gray-400 text-center py-4 text-lg text-gray-100">
         © {new Date().getFullYear()} FurniCo. All rights reserved.
       </div>
     </footer>
